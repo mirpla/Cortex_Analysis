@@ -1,0 +1,13 @@
+trialnumber,moviename,soundfolder,soundname,frequency,soundphase,soundcat,movie1,movie2,movie3,movie4,correctresponse
+1,"1189-sin-37.5Hz-ninety.avi","ninety","sin-ninety-acoustic3.wav","Gamma",90,"acoustic","1170-sin-37.5Hz-ninety.avi","1189-sin-37.5Hz-ninety.avi","1174-sin-37.5Hz-ninety.avi","1182-sin-37.5Hz-ninety.avi",2
+2,"1004-sin-37.5Hz-ninety.avi","twoseventy","sin-twoseventy-choir15.wav","Gamma",270,"choir","1023-sin-37.5Hz-ninety.avi","1004-sin-37.5Hz-ninety.avi","1003-sin-37.5Hz-ninety.avi","1017-sin-37.5Hz-ninety.avi",2
+3,"1170-sin-37.5Hz-ninety.avi","zero","sin-zero-acoustic24.wav","Gamma",0,"acoustic","1170-sin-37.5Hz-ninety.avi","1182-sin-37.5Hz-ninety.avi","1189-sin-37.5Hz-ninety.avi","1174-sin-37.5Hz-ninety.avi",1
+4,"1046-sin-4Hz-ninety.avi","oneeighty-4Hz","sin-oneeighty-4Hz-dar5.wav","Theta",180,"dar","1039-sin-4Hz-ninety.avi","1046-sin-4Hz-ninety.avi","1035-sin-4Hz-ninety.avi","1026-sin-4Hz-ninety.avi",2
+5,"1039-sin-4Hz-ninety.avi","oneeighty-4Hz","sin-oneeighty-4Hz-dar17.wav","Theta",180,"dar","1046-sin-4Hz-ninety.avi","1035-sin-4Hz-ninety.avi","1026-sin-4Hz-ninety.avi","1039-sin-4Hz-ninety.avi",4
+6,"1023-sin-37.5Hz-ninety.avi","oneeighty","sin-oneeighty-choir8.wav","Gamma",180,"choir","1023-sin-37.5Hz-ninety.avi","1017-sin-37.5Hz-ninety.avi","1003-sin-37.5Hz-ninety.avi","1004-sin-37.5Hz-ninety.avi",1
+7,"1003-sin-37.5Hz-ninety.avi","oneeighty","sin-oneeighty-choir7.wav","Gamma",180,"choir","1023-sin-37.5Hz-ninety.avi","1017-sin-37.5Hz-ninety.avi","1003-sin-37.5Hz-ninety.avi","1004-sin-37.5Hz-ninety.avi",3
+8,"1026-sin-4Hz-ninety.avi","zero-4Hz","sin-zero-4Hz-dar19.wav","Theta",0,"dar","1026-sin-4Hz-ninety.avi","1035-sin-4Hz-ninety.avi","1046-sin-4Hz-ninety.avi","1039-sin-4Hz-ninety.avi",1
+9,"1174-sin-37.5Hz-ninety.avi","zero","sin-zero-acoustic11.wav","Gamma",0,"acoustic","1189-sin-37.5Hz-ninety.avi","1182-sin-37.5Hz-ninety.avi","1174-sin-37.5Hz-ninety.avi","1170-sin-37.5Hz-ninety.avi",3
+10,"1035-sin-4Hz-ninety.avi","zero-4Hz","sin-zero-4Hz-dar20.wav","Theta",0,"dar","1026-sin-4Hz-ninety.avi","1046-sin-4Hz-ninety.avi","1035-sin-4Hz-ninety.avi","1039-sin-4Hz-ninety.avi",3
+11,"1182-sin-37.5Hz-ninety.avi","ninety","sin-ninety-acoustic4.wav","Gamma",90,"acoustic","1182-sin-37.5Hz-ninety.avi","1189-sin-37.5Hz-ninety.avi","1174-sin-37.5Hz-ninety.avi","1170-sin-37.5Hz-ninety.avi",1
+12,"1017-sin-37.5Hz-ninety.avi","twoseventy","sin-twoseventy-choir16.wav","Gamma",270,"choir","1017-sin-37.5Hz-ninety.avi","1003-sin-37.5Hz-ninety.avi","1004-sin-37.5Hz-ninety.avi","1023-sin-37.5Hz-ninety.avi",1

@@ -1,0 +1,13 @@
+trialnumber,moviename,soundfolder,soundname,frequency,soundphase,soundcat
+1,"1050-sin-37.5Hz-ninety.avi","zero","sin-zero-choir23.wav","Gamma",0,"choir"
+2,"1111-sin-4Hz-ninety.avi","zero-4Hz","sin-zero-4Hz-ep19.wav","Theta",0,"ep"
+3,"1091-sin-37.5Hz-ninety.avi","twoseventy","sin-twoseventy-dar13.wav","Gamma",270,"dar"
+4,"1120-sin-4Hz-ninety.avi","zero-4Hz","sin-zero-4Hz-ep21.wav","Theta",0,"ep"
+5,"1098-sin-4Hz-ninety.avi","oneeighty-4Hz","sin-oneeighty-4Hz-ep6.wav","Theta",180,"ep"
+6,"1055-sin-37.5Hz-ninety.avi","ninety","sin-ninety-choir1.wav","Gamma",90,"choir"
+7,"1096-sin-37.5Hz-ninety.avi","oneeighty","sin-oneeighty-dar8.wav","Gamma",180,"dar"
+8,"1063-sin-37.5Hz-ninety.avi","ninety","sin-ninety-choir3.wav","Gamma",90,"choir"
+9,"1082-sin-37.5Hz-ninety.avi","twoseventy","sin-twoseventy-dar15.wav","Gamma",270,"dar"
+10,"1092-sin-37.5Hz-ninety.avi","oneeighty","sin-oneeighty-dar10.wav","Gamma",180,"dar"
+11,"1052-sin-37.5Hz-ninety.avi","zero","sin-zero-choir11.wav","Gamma",0,"choir"
+12,"1103-sin-4Hz-ninety.avi","oneeighty-4Hz","sin-oneeighty-4Hz-ep18.wav","Theta",180,"ep"

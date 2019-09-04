@@ -1,0 +1,13 @@
+trialnumber,moviename,soundfolder,soundname,frequency,soundphase,soundcat,movie1,movie2,movie3,movie4,correctresponse
+1,"1036-sin-4Hz-ninety.avi","zero-4Hz","sin-zero-4Hz-synth7.wav","Theta",0,"synth","1027-sin-4Hz-ninety.avi","1031-sin-4Hz-ninety.avi","1045-sin-4Hz-ninety.avi","1036-sin-4Hz-ninety.avi",4
+2,"1017-sin-37.5Hz-ninety.avi","oneeighty","sin-oneeighty-orch23.wav","Gamma",180,"orch","1017-sin-37.5Hz-ninety.avi","1008-sin-37.5Hz-ninety.avi","1009-sin-37.5Hz-ninety.avi","1015-sin-37.5Hz-ninety.avi",1
+3,"1176-sin-37.5Hz-ninety.avi","ninety","sin-ninety-guitar6.wav","Gamma",90,"guitar","1190-sin-37.5Hz-ninety.avi","1176-sin-37.5Hz-ninety.avi","1184-sin-37.5Hz-ninety.avi","1177-sin-37.5Hz-ninety.avi",2
+4,"1031-sin-4Hz-ninety.avi","oneeighty-4Hz","sin-oneeighty-4Hz-synth15.wav","Theta",180,"synth","1045-sin-4Hz-ninety.avi","1036-sin-4Hz-ninety.avi","1031-sin-4Hz-ninety.avi","1027-sin-4Hz-ninety.avi",3
+5,"1177-sin-37.5Hz-ninety.avi","zero","sin-zero-guitar20.wav","Gamma",0,"guitar","1190-sin-37.5Hz-ninety.avi","1184-sin-37.5Hz-ninety.avi","1176-sin-37.5Hz-ninety.avi","1177-sin-37.5Hz-ninety.avi",4
+6,"1008-sin-37.5Hz-ninety.avi","twoseventy","sin-twoseventy-orch4.wav","Gamma",270,"orch","1017-sin-37.5Hz-ninety.avi","1008-sin-37.5Hz-ninety.avi","1009-sin-37.5Hz-ninety.avi","1015-sin-37.5Hz-ninety.avi",2
+7,"1045-sin-4Hz-ninety.avi","zero-4Hz","sin-zero-4Hz-synth8.wav","Theta",0,"synth","1045-sin-4Hz-ninety.avi","1027-sin-4Hz-ninety.avi","1036-sin-4Hz-ninety.avi","1031-sin-4Hz-ninety.avi",1
+8,"1027-sin-4Hz-ninety.avi","oneeighty-4Hz","sin-oneeighty-4Hz-synth13.wav","Theta",180,"synth","1027-sin-4Hz-ninety.avi","1045-sin-4Hz-ninety.avi","1036-sin-4Hz-ninety.avi","1031-sin-4Hz-ninety.avi",1
+9,"1009-sin-37.5Hz-ninety.avi","twoseventy","sin-twoseventy-orch1.wav","Gamma",270,"orch","1017-sin-37.5Hz-ninety.avi","1015-sin-37.5Hz-ninety.avi","1009-sin-37.5Hz-ninety.avi","1008-sin-37.5Hz-ninety.avi",3
+10,"1190-sin-37.5Hz-ninety.avi","ninety","sin-ninety-guitar17.wav","Gamma",90,"guitar","1177-sin-37.5Hz-ninety.avi","1184-sin-37.5Hz-ninety.avi","1190-sin-37.5Hz-ninety.avi","1176-sin-37.5Hz-ninety.avi",3
+11,"1015-sin-37.5Hz-ninety.avi","oneeighty","sin-oneeighty-orch24.wav","Gamma",180,"orch","1009-sin-37.5Hz-ninety.avi","1008-sin-37.5Hz-ninety.avi","1015-sin-37.5Hz-ninety.avi","1017-sin-37.5Hz-ninety.avi",3
+12,"1184-sin-37.5Hz-ninety.avi","zero","sin-zero-guitar21.wav","Gamma",0,"guitar","1177-sin-37.5Hz-ninety.avi","1184-sin-37.5Hz-ninety.avi","1176-sin-37.5Hz-ninety.avi","1190-sin-37.5Hz-ninety.avi",2

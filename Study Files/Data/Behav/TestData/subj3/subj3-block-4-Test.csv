@@ -1,0 +1,17 @@
+testrespMat_ 1,testrespMat_ 2,testrespMat_ 3,testrespMat_ 4,testrespMat_ 5,testrespMat_ 6,testrespMat_ 7,testrespMat_ 8,testrespMat_ 9,testrespMat_10,testrespMat_11,testrespMat_12,testrespMat_13,testrespMat_14,testrespMat_15
+3,4,1,1034.avi,oneeighty,sin-oneeighty-4Hz-acoustic23.wav,180,acoustic,1034.avi,1048.avi,1019.avi,,1,1,4.9830550838833
+3,4,2,1179.avi,oneeighty,sin-oneeighty-4Hz-orch23.wav,180,orch,1145.avi,1168.avi,1179.avi,,3,3,3.3304160534899
+3,4,3,1136.avi,oneeighty,sin-oneeighty-4Hz-guitar13.wav,180,guitar,1098.avi,1097.avi,1136.avi,,3,3,3.98356675496507
+3,4,4,1051.avi,zero,sin-zero-4Hz-choir12.wav,0,choir,1054.avi,1051.avi,1091.avi,,2,3,3.8502696461328
+3,4,5,1145.avi,zero,sin-zero-4Hz-orch3.wav,0,orch,1168.avi,1145.avi,1179.avi,,2,2,3.53038405518237
+3,4,6,1054.avi,zero,sin-zero-4Hz-choir10.wav,0,choir,1051.avi,1054.avi,1091.avi,,2,4,3.94347558996924
+3,4,7,1168.avi,zero,sin-zero-4Hz-orch11.wav,0,orch,1186.avi,1168.avi,1179.avi,,2,2,4.51656410604846
+3,4,8,1048.avi,oneeighty,sin-oneeighty-4Hz-acoustic13.wav,180,acoustic,1019.avi,1048.avi,1014.avi,,2,3,4.14345204404162
+3,4,9,1135.avi,oneeighty,sin-oneeighty-4Hz-guitar20.wav,180,guitar,1135.avi,1097.avi,1098.avi,,1,1,3.41043899567558
+3,4,10,1091.avi,oneeighty,sin-oneeighty-4Hz-choir13.wav,180,choir,1091.avi,1054.avi,1051.avi,,1,4,3.46374093444138
+3,4,11,1098.avi,zero,sin-zero-4Hz-guitar2.wav,0,guitar,1135.avi,1098.avi,1136.avi,,2,4,4.96981563238114
+3,4,12,1092.avi,oneeighty,sin-oneeighty-4Hz-choir21.wav,180,choir,1051.avi,1054.avi,1091.avi,,4,4,4.78319394447135
+3,4,13,1186.avi,oneeighty,sin-oneeighty-4Hz-orch13.wav,180,orch,1186.avi,1168.avi,1145.avi,,1,1,3.23713011388099
+3,4,14,1097.avi,zero,sin-zero-4Hz-guitar8.wav,0,guitar,1135.avi,1098.avi,1097.avi,,3,3,3.31719229927512
+3,4,15,1019.avi,zero,sin-zero-4Hz-acoustic10.wav,0,acoustic,1014.avi,1034.avi,1048.avi,,4,3,3.41049303055661
+3,4,16,1014.avi,zero,sin-zero-4Hz-acoustic8.wav,0,acoustic,1034.avi,1019.avi,1048.avi,,4,4,4.01017576429877

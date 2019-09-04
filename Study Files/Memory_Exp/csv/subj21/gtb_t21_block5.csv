@@ -1,0 +1,17 @@
+trialnumber,moviename,soundfolder,soundname,frequency,soundphase,soundcat,movie1,movie2,movie3,movie4,correctresponse
+1,"1117.avi","zero","sin-zero-4Hz-guitar11.wav","Theta",0,"guitar","1128.avi","1144.avi","1117.avi","1097.avi",3
+2,"1097.avi","zero","sin-zero-4Hz-guitar2.wav","Theta",0,"guitar","1117.avi","1144.avi","1128.avi","1097.avi",4
+3,"1144.avi","oneeighty","sin-oneeighty-4Hz-guitar23.wav","Theta",180,"guitar","1117.avi","1144.avi","1097.avi","1128.avi",2
+4,"1004.avi","zero","sin-zero-4Hz-acoustic4.wav","Theta",0,"acoustic","1004.avi","1031.avi","1044.avi","1010.avi",1
+5,"1054.avi","zero","sin-zero-4Hz-choir7.wav","Theta",0,"choir","1062.avi","1054.avi","1081.avi","1090.avi",2
+6,"1081.avi","oneeighty","sin-oneeighty-4Hz-choir13.wav","Theta",180,"choir","1090.avi","1054.avi","1062.avi","1081.avi",4
+7,"1177.avi","oneeighty","sin-oneeighty-4Hz-orch21.wav","Theta",180,"orch","1192.avi","1177.avi","1167.avi","1162.avi",2
+8,"1010.avi","zero","sin-zero-4Hz-acoustic1.wav","Theta",0,"acoustic","1004.avi","1044.avi","1010.avi","1031.avi",3
+9,"1090.avi","oneeighty","sin-oneeighty-4Hz-choir20.wav","Theta",180,"choir","1062.avi","1090.avi","1054.avi","1081.avi",2
+10,"1192.avi","oneeighty","sin-oneeighty-4Hz-orch15.wav","Theta",180,"orch","1192.avi","1167.avi","1162.avi","1177.avi",1
+11,"1128.avi","oneeighty","sin-oneeighty-4Hz-guitar13.wav","Theta",180,"guitar","1128.avi","1117.avi","1144.avi","1097.avi",1
+12,"1167.avi","zero","sin-zero-4Hz-orch11.wav","Theta",0,"orch","1167.avi","1162.avi","1177.avi","1192.avi",1
+13,"1162.avi","zero","sin-zero-4Hz-orch2.wav","Theta",0,"orch","1192.avi","1177.avi","1162.avi","1167.avi",3
+14,"1031.avi","oneeighty","sin-oneeighty-4Hz-acoustic24.wav","Theta",180,"acoustic","1010.avi","1044.avi","1004.avi","1031.avi",4
+15,"1044.avi","oneeighty","sin-oneeighty-4Hz-acoustic15.wav","Theta",180,"acoustic","1044.avi","1004.avi","1010.avi","1031.avi",1
+16,"1062.avi","zero","sin-zero-4Hz-choir12.wav","Theta",0,"choir","1054.avi","1062.avi","1090.avi","1081.avi",2

@@ -1,0 +1,5 @@
+trialnumber,moviename,soundfolder,soundname,frequency,soundphase,soundcat,movie1,movie2,movie3,movie4,correctresponse
+3,p3-sin-37.5Hz-ninety.avi,ninety,sin-ninety-p3.wav,Gamma,90,practice,p2-sin-37.5Hz-ninety.avi,p3-sin-37.5Hz-ninety.avi,p4-sin-37.5Hz-ninety.avi,p1-sin-37.5Hz-ninety.avi,2
+1,p1-sin-37.5Hz-ninety.avi,twoseventy,sin-twoseventy-p1.wav,Gamma,270,practice,p3-sin-37.5Hz-ninety.avi,p1-sin-37.5Hz-ninety.avi,p2-sin-37.5Hz-ninety.avi,p4-sin-37.5Hz-ninety.avi,2
+2,p2-sin-37.5Hz-ninety.avi,oneeighty,sin-oneeighty-p2.wav,Gamma,180,practice,p4-sin-37.5Hz-ninety.avi,p2-sin-37.5Hz-ninety.avi,p3-sin-37.5Hz-ninety.avi,p1-sin-37.5Hz-ninety.avi,2
+4,p4-sin-37.5Hz-ninety.avi,zero,sin-zero-p4.wav,Gamma,0,practice,p1-sin-37.5Hz-ninety.avi,p3-sin-37.5Hz-ninety.avi,p2-sin-37.5Hz-ninety.avi,p4-sin-37.5Hz-ninety.avi,4

@@ -1,0 +1,13 @@
+trialnumber,moviename,soundfolder,soundname,frequency,soundphase,soundcat
+1,"1002-sin-37.5Hz-ninety.avi","zero","sin-zero-yann10.wav","Gamma",0,"yann"
+2,"1042-sin-37.5Hz-ninety.avi","twoseventy","sin-twoseventy-acoustic18.wav","Gamma",270,"acoustic"
+3,"1037-sin-37.5Hz-ninety.avi","oneeighty","sin-oneeighty-acoustic20.wav","Gamma",180,"acoustic"
+4,"1069-sin-4Hz-ninety.avi","oneeighty-4Hz","sin-oneeighty-4Hz-choir2.wav","Theta",180,"choir"
+5,"1056-sin-4Hz-ninety.avi","zero-4Hz","sin-zero-4Hz-choir24.wav","Theta",0,"choir"
+6,"1071-sin-4Hz-ninety.avi","zero-4Hz","sin-zero-4Hz-choir23.wav","Theta",0,"choir"
+7,"1016-sin-37.5Hz-ninety.avi","ninety","sin-ninety-yann15.wav","Gamma",90,"yann"
+8,"1049-sin-4Hz-ninety.avi","oneeighty-4Hz","sin-oneeighty-4Hz-choir3.wav","Theta",180,"choir"
+9,"1027-sin-37.5Hz-ninety.avi","oneeighty","sin-oneeighty-acoustic19.wav","Gamma",180,"acoustic"
+10,"1024-sin-37.5Hz-ninety.avi","ninety","sin-ninety-yann16.wav","Gamma",90,"yann"
+11,"1045-sin-37.5Hz-ninety.avi","twoseventy","sin-twoseventy-acoustic17.wav","Gamma",270,"acoustic"
+12,"1011-sin-37.5Hz-ninety.avi","zero","sin-zero-yann8.wav","Gamma",0,"yann"

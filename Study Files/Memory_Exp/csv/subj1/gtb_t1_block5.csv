@@ -1,0 +1,17 @@
+trialnumber,moviename,soundfolder,soundname,frequency,soundphase,soundcat,movie1,movie2,movie3,movie4,correctresponse
+1,"1176.avi","oneeighty","sin-oneeighty-4Hz-synth19.wav","Theta",180,"synth","1158.avi","1192.avi","1176.avi","1163.avi",3
+2,"1045.avi","oneeighty","sin-oneeighty-4Hz-ep18.wav","Theta",180,"ep","1034.avi","1013.avi","1045.avi","1011.avi",3
+3,"1104.avi","zero","sin-zero-4Hz-orch8.wav","Theta",0,"orch","1134.avi","1129.avi","1104.avi","1117.avi",3
+4,"1055.avi","zero","sin-zero-4Hz-guitar10.wav","Theta",0,"guitar","1055.avi","1078.avi","1082.avi","1066.avi",1
+5,"1158.avi","zero","sin-zero-4Hz-synth5.wav","Theta",0,"synth","1163.avi","1192.avi","1176.avi","1158.avi",4
+6,"1163.avi","zero","sin-zero-4Hz-synth3.wav","Theta",0,"synth","1163.avi","1176.avi","1192.avi","1158.avi",1
+7,"1117.avi","zero","sin-zero-4Hz-orch10.wav","Theta",0,"orch","1129.avi","1104.avi","1134.avi","1117.avi",4
+8,"1082.avi","oneeighty","sin-oneeighty-4Hz-guitar18.wav","Theta",180,"guitar","1078.avi","1055.avi","1066.avi","1082.avi",4
+9,"1078.avi","oneeighty","sin-oneeighty-4Hz-guitar22.wav","Theta",180,"guitar","1066.avi","1055.avi","1082.avi","1078.avi",4
+10,"1034.avi","oneeighty","sin-oneeighty-4Hz-ep15.wav","Theta",180,"ep","1045.avi","1011.avi","1013.avi","1034.avi",4
+11,"1066.avi","zero","sin-zero-4Hz-guitar7.wav","Theta",0,"guitar","1078.avi","1082.avi","1055.avi","1066.avi",4
+12,"1013.avi","zero","sin-zero-4Hz-ep2.wav","Theta",0,"ep","1011.avi","1034.avi","1045.avi","1013.avi",4
+13,"1011.avi","zero","sin-zero-4Hz-ep11.wav","Theta",0,"ep","1011.avi","1034.avi","1013.avi","1045.avi",1
+14,"1192.avi","oneeighty","sin-oneeighty-4Hz-synth18.wav","Theta",180,"synth","1163.avi","1176.avi","1192.avi","1158.avi",3
+15,"1129.avi","oneeighty","sin-oneeighty-4Hz-orch16.wav","Theta",180,"orch","1134.avi","1104.avi","1129.avi","1117.avi",3
+16,"1134.avi","oneeighty","sin-oneeighty-4Hz-orch15.wav","Theta",180,"orch","1134.avi","1117.avi","1104.avi","1129.avi",1

@@ -1,0 +1,13 @@
+trialnumber,moviename,soundfolder,soundname,frequency,soundphase,soundcat
+1,"1087-sin-37.5Hz-ninety.avi","twoseventy","sin-twoseventy-ep9.wav","Gamma",270,"ep"
+2,"1103-sin-4Hz-ninety.avi","oneeighty-4Hz","sin-oneeighty-4Hz-guitar21.wav","Theta",180,"guitar"
+3,"1076-sin-37.5Hz-ninety.avi","twoseventy","sin-twoseventy-ep8.wav","Gamma",270,"ep"
+4,"1084-sin-37.5Hz-ninety.avi","oneeighty","sin-oneeighty-ep4.wav","Gamma",180,"ep"
+5,"1119-sin-4Hz-ninety.avi","oneeighty-4Hz","sin-oneeighty-4Hz-guitar20.wav","Theta",180,"guitar"
+6,"1115-sin-4Hz-ninety.avi","zero-4Hz","sin-zero-4Hz-guitar15.wav","Theta",0,"guitar"
+7,"1060-sin-37.5Hz-ninety.avi","zero","sin-zero-dar6.wav","Gamma",0,"dar"
+8,"1079-sin-37.5Hz-ninety.avi","oneeighty","sin-oneeighty-ep2.wav","Gamma",180,"ep"
+9,"1071-sin-37.5Hz-ninety.avi","ninety","sin-ninety-dar12.wav","Gamma",90,"dar"
+10,"1065-sin-37.5Hz-ninety.avi","zero","sin-zero-dar5.wav","Gamma",0,"dar"
+11,"1051-sin-37.5Hz-ninety.avi","ninety","sin-ninety-dar11.wav","Gamma",90,"dar"
+12,"1107-sin-4Hz-ninety.avi","zero-4Hz","sin-zero-4Hz-guitar14.wav","Theta",0,"guitar"

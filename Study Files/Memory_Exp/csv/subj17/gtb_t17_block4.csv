@@ -1,0 +1,17 @@
+trialnumber,moviename,soundfolder,soundname,frequency,soundphase,soundcat,movie1,movie2,movie3,movie4,correctresponse
+1,"1147.avi","zero","sin-zero-4Hz-yann6.wav","Theta",0,"yann","1170.avi","1175.avi","1147.avi","1155.avi",3
+2,"1140.avi","oneeighty","sin-oneeighty-4Hz-synth21.wav","Theta",180,"synth","1109.avi","1140.avi","1101.avi","1141.avi",2
+3,"1051.avi","zero","sin-zero-4Hz-ep12.wav","Theta",0,"ep","1055.avi","1079.avi","1051.avi","1086.avi",3
+4,"1026.avi","oneeighty","sin-oneeighty-4Hz-dar14.wav","Theta",180,"dar","1008.avi","1021.avi","1026.avi","1038.avi",3
+5,"1021.avi","zero","sin-zero-4Hz-dar10.wav","Theta",0,"dar","1021.avi","1008.avi","1026.avi","1038.avi",1
+6,"1155.avi","zero","sin-zero-4Hz-yann4.wav","Theta",0,"yann","1175.avi","1147.avi","1170.avi","1155.avi",4
+7,"1141.avi","oneeighty","sin-oneeighty-4Hz-synth23.wav","Theta",180,"synth","1109.avi","1141.avi","1101.avi","1140.avi",2
+8,"1055.avi","zero","sin-zero-4Hz-ep8.wav","Theta",0,"ep","1079.avi","1086.avi","1051.avi","1055.avi",4
+9,"1079.avi","oneeighty","sin-oneeighty-4Hz-ep22.wav","Theta",180,"ep","1079.avi","1051.avi","1055.avi","1086.avi",1
+10,"1170.avi","oneeighty","sin-oneeighty-4Hz-yann20.wav","Theta",180,"yann","1155.avi","1175.avi","1170.avi","1147.avi",3
+11,"1008.avi","zero","sin-zero-4Hz-dar2.wav","Theta",0,"dar","1026.avi","1008.avi","1038.avi","1021.avi",2
+12,"1038.avi","oneeighty","sin-oneeighty-4Hz-dar15.wav","Theta",180,"dar","1021.avi","1026.avi","1008.avi","1038.avi",4
+13,"1109.avi","zero","sin-zero-4Hz-synth9.wav","Theta",0,"synth","1101.avi","1141.avi","1140.avi","1109.avi",4
+14,"1086.avi","oneeighty","sin-oneeighty-4Hz-ep17.wav","Theta",180,"ep","1079.avi","1086.avi","1055.avi","1051.avi",2
+15,"1101.avi","zero","sin-zero-4Hz-synth11.wav","Theta",0,"synth","1109.avi","1141.avi","1140.avi","1101.avi",4
+16,"1175.avi","oneeighty","sin-oneeighty-4Hz-yann21.wav","Theta",180,"yann","1175.avi","1155.avi","1170.avi","1147.avi",1

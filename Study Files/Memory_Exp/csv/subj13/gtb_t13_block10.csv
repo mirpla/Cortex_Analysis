@@ -1,0 +1,17 @@
+trialnumber,moviename,soundfolder,soundname,frequency,soundphase,soundcat,movie1,movie2,movie3,movie4,correctresponse
+1,"1043.avi","oneeighty","sin-oneeighty-4Hz-orch19.wav","Theta",180,"orch","1020.avi","1043.avi","1005.avi","1040.avi",2
+2,"1164.avi","zero","sin-zero-4Hz-acoustic1.wav","Theta",0,"acoustic","1174.avi","1166.avi","1183.avi","1164.avi",4
+3,"1064.avi","zero","sin-zero-4Hz-synth3.wav","Theta",0,"synth","1053.avi","1064.avi","1091.avi","1094.avi",2
+4,"1166.avi","zero","sin-zero-4Hz-acoustic7.wav","Theta",0,"acoustic","1183.avi","1164.avi","1166.avi","1174.avi",3
+5,"1141.avi","oneeighty","sin-oneeighty-4Hz-yann15.wav","Theta",180,"yann","1141.avi","1130.avi","1117.avi","1106.avi",1
+6,"1091.avi","oneeighty","sin-oneeighty-4Hz-synth21.wav","Theta",180,"synth","1091.avi","1053.avi","1064.avi","1094.avi",1
+7,"1106.avi","zero","sin-zero-4Hz-yann9.wav","Theta",0,"yann","1117.avi","1106.avi","1130.avi","1141.avi",2
+8,"1020.avi","zero","sin-zero-4Hz-orch7.wav","Theta",0,"orch","1043.avi","1020.avi","1005.avi","1040.avi",2
+9,"1040.avi","oneeighty","sin-oneeighty-4Hz-orch18.wav","Theta",180,"orch","1020.avi","1043.avi","1005.avi","1040.avi",4
+10,"1183.avi","oneeighty","sin-oneeighty-4Hz-acoustic18.wav","Theta",180,"acoustic","1183.avi","1164.avi","1166.avi","1174.avi",1
+11,"1005.avi","zero","sin-zero-4Hz-orch11.wav","Theta",0,"orch","1005.avi","1043.avi","1020.avi","1040.avi",1
+12,"1053.avi","zero","sin-zero-4Hz-synth7.wav","Theta",0,"synth","1053.avi","1091.avi","1094.avi","1064.avi",1
+13,"1117.avi","zero","sin-zero-4Hz-yann12.wav","Theta",0,"yann","1141.avi","1130.avi","1117.avi","1106.avi",3
+14,"1174.avi","oneeighty","sin-oneeighty-4Hz-acoustic20.wav","Theta",180,"acoustic","1166.avi","1174.avi","1164.avi","1183.avi",2
+15,"1130.avi","oneeighty","sin-oneeighty-4Hz-yann20.wav","Theta",180,"yann","1141.avi","1130.avi","1117.avi","1106.avi",2
+16,"1094.avi","oneeighty","sin-oneeighty-4Hz-synth13.wav","Theta",180,"synth","1053.avi","1091.avi","1064.avi","1094.avi",4

@@ -1,0 +1,17 @@
+trialnumber,moviename,soundfolder,soundname,frequency,soundphase,soundcat,movie1,movie2,movie3,movie4,correctresponse
+1,"1152.avi","zero","sin-zero-4Hz-orch5.wav","Theta",0,"orch","1179.avi","1170.avi","1152.avi","1151.avi",3
+2,"1039.avi","oneeighty","sin-oneeighty-4Hz-acoustic18.wav","Theta",180,"acoustic","1016.avi","1014.avi","1028.avi","1039.avi",4
+3,"1179.avi","oneeighty","sin-oneeighty-4Hz-orch14.wav","Theta",180,"orch","1151.avi","1179.avi","1170.avi","1152.avi",2
+4,"1028.avi","oneeighty","sin-oneeighty-4Hz-acoustic20.wav","Theta",180,"acoustic","1016.avi","1014.avi","1028.avi","1039.avi",3
+5,"1057.avi","zero","sin-zero-4Hz-choir12.wav","Theta",0,"choir","1057.avi","1070.avi","1077.avi","1079.avi",1
+6,"1070.avi","zero","sin-zero-4Hz-choir9.wav","Theta",0,"choir","1079.avi","1077.avi","1057.avi","1070.avi",4
+7,"1143.avi","oneeighty","sin-oneeighty-4Hz-guitar13.wav","Theta",180,"guitar","1113.avi","1143.avi","1111.avi","1125.avi",2
+8,"1125.avi","oneeighty","sin-oneeighty-4Hz-guitar21.wav","Theta",180,"guitar","1113.avi","1111.avi","1125.avi","1143.avi",3
+9,"1151.avi","zero","sin-zero-4Hz-orch9.wav","Theta",0,"orch","1170.avi","1151.avi","1152.avi","1179.avi",2
+10,"1170.avi","oneeighty","sin-oneeighty-4Hz-orch13.wav","Theta",180,"orch","1179.avi","1151.avi","1170.avi","1152.avi",3
+11,"1077.avi","oneeighty","sin-oneeighty-4Hz-choir16.wav","Theta",180,"choir","1077.avi","1057.avi","1079.avi","1070.avi",1
+12,"1016.avi","zero","sin-zero-4Hz-acoustic3.wav","Theta",0,"acoustic","1014.avi","1028.avi","1039.avi","1016.avi",4
+13,"1079.avi","oneeighty","sin-oneeighty-4Hz-choir18.wav","Theta",180,"choir","1070.avi","1077.avi","1079.avi","1057.avi",3
+14,"1111.avi","zero","sin-zero-4Hz-guitar4.wav","Theta",0,"guitar","1111.avi","1143.avi","1125.avi","1113.avi",1
+15,"1014.avi","zero","sin-zero-4Hz-acoustic12.wav","Theta",0,"acoustic","1039.avi","1028.avi","1014.avi","1016.avi",3
+16,"1113.avi","zero","sin-zero-4Hz-guitar2.wav","Theta",0,"guitar","1111.avi","1143.avi","1113.avi","1125.avi",3

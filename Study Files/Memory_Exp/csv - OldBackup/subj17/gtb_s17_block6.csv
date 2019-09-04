@@ -1,0 +1,13 @@
+trialnumber,moviename,soundfolder,soundname,frequency,soundphase,soundcat
+1,"1142-sin-37.5Hz-ninety.avi","oneeighty","sin-oneeighty-orch2.wav","Gamma",180,"orch"
+2,"1100-sin-37.5Hz-ninety.avi","zero","sin-zero-guitar18.wav","Gamma",0,"guitar"
+3,"1168-sin-4Hz-ninety.avi","zero-4Hz","sin-zero-4Hz-synth16.wav","Theta",0,"synth"
+4,"1162-sin-4Hz-ninety.avi","oneeighty-4Hz","sin-oneeighty-4Hz-synth22.wav","Theta",180,"synth"
+5,"1097-sin-37.5Hz-ninety.avi","ninety","sin-ninety-guitar24.wav","Gamma",90,"guitar"
+6,"1116-sin-37.5Hz-ninety.avi","zero","sin-zero-guitar5.wav","Gamma",0,"guitar"
+7,"1133-sin-37.5Hz-ninety.avi","twoseventy","sin-twoseventy-orch8.wav","Gamma",270,"orch"
+8,"1136-sin-37.5Hz-ninety.avi","oneeighty","sin-oneeighty-orch3.wav","Gamma",180,"orch"
+9,"1128-sin-37.5Hz-ninety.avi","twoseventy","sin-twoseventy-orch10.wav","Gamma",270,"orch"
+10,"1158-sin-4Hz-ninety.avi","zero-4Hz","sin-zero-4Hz-synth13.wav","Theta",0,"synth"
+11,"1150-sin-4Hz-ninety.avi","oneeighty-4Hz","sin-oneeighty-4Hz-synth19.wav","Theta",180,"synth"
+12,"1110-sin-37.5Hz-ninety.avi","ninety","sin-ninety-guitar11.wav","Gamma",90,"guitar"

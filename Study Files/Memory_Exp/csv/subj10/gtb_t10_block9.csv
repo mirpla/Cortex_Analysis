@@ -1,0 +1,17 @@
+trialnumber,moviename,soundfolder,soundname,frequency,soundphase,soundcat,movie1,movie2,movie3,movie4,correctresponse
+1,"1045.avi","oneeighty","sin-oneeighty-4Hz-acoustic17.wav","Theta",180,"acoustic","1022.avi","1023.avi","1040.avi","1045.avi",4
+2,"1156.avi","zero","sin-zero-4Hz-orch5.wav","Theta",0,"orch","1170.avi","1156.avi","1174.avi","1161.avi",2
+3,"1040.avi","oneeighty","sin-oneeighty-4Hz-acoustic24.wav","Theta",180,"acoustic","1040.avi","1022.avi","1023.avi","1045.avi",1
+4,"1134.avi","oneeighty","sin-oneeighty-4Hz-guitar18.wav","Theta",180,"guitar","1104.avi","1127.avi","1098.avi","1134.avi",4
+5,"1174.avi","oneeighty","sin-oneeighty-4Hz-orch22.wav","Theta",180,"orch","1161.avi","1174.avi","1156.avi","1170.avi",2
+6,"1127.avi","oneeighty","sin-oneeighty-4Hz-guitar13.wav","Theta",180,"guitar","1127.avi","1104.avi","1098.avi","1134.avi",1
+7,"1104.avi","zero","sin-zero-4Hz-guitar3.wav","Theta",0,"guitar","1134.avi","1104.avi","1127.avi","1098.avi",2
+8,"1161.avi","zero","sin-zero-4Hz-orch3.wav","Theta",0,"orch","1156.avi","1174.avi","1161.avi","1170.avi",3
+9,"1075.avi","oneeighty","sin-oneeighty-4Hz-choir18.wav","Theta",180,"choir","1051.avi","1071.avi","1075.avi","1081.avi",3
+10,"1023.avi","zero","sin-zero-4Hz-acoustic11.wav","Theta",0,"acoustic","1023.avi","1022.avi","1040.avi","1045.avi",1
+11,"1170.avi","oneeighty","sin-oneeighty-4Hz-orch19.wav","Theta",180,"orch","1156.avi","1161.avi","1174.avi","1170.avi",4
+12,"1081.avi","oneeighty","sin-oneeighty-4Hz-choir22.wav","Theta",180,"choir","1081.avi","1051.avi","1071.avi","1075.avi",1
+13,"1051.avi","zero","sin-zero-4Hz-choir6.wav","Theta",0,"choir","1071.avi","1081.avi","1075.avi","1051.avi",4
+14,"1022.avi","zero","sin-zero-4Hz-acoustic10.wav","Theta",0,"acoustic","1023.avi","1022.avi","1040.avi","1045.avi",2
+15,"1071.avi","zero","sin-zero-4Hz-choir2.wav","Theta",0,"choir","1071.avi","1081.avi","1075.avi","1051.avi",1
+16,"1098.avi","zero","sin-zero-4Hz-guitar11.wav","Theta",0,"guitar","1127.avi","1134.avi","1104.avi","1098.avi",4

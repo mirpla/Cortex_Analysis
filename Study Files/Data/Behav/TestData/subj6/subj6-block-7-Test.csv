@@ -1,0 +1,17 @@
+testrespMat_ 1,testrespMat_ 2,testrespMat_ 3,testrespMat_ 4,testrespMat_ 5,testrespMat_ 6,testrespMat_ 7,testrespMat_ 8,testrespMat_ 9,testrespMat_10,testrespMat_11,testrespMat_12,testrespMat_13,testrespMat_14,testrespMat_15
+6,7,1,1064.avi,zero,sin-zero-4Hz-acoustic4.wav,0,acoustic,1092.avi,1070.avi,1087.avi,,4,4,6.51446429245334
+6,7,2,1070.avi,zero,sin-zero-4Hz-acoustic1.wav,0,acoustic,1070.avi,1064.avi,1087.avi,,1,1,7.47486879938515
+6,7,3,1125.avi,oneeighty,sin-oneeighty-4Hz-choir13.wav,180,choir,1125.avi,1100.avi,1111.avi,,1,4,4.70321356607565
+6,7,4,1181.avi,oneeighty,sin-oneeighty-4Hz-dar23.wav,180,dar,1158.avi,1188.avi,1156.avi,,4,4,6.46277706083492
+6,7,5,1158.avi,zero,sin-zero-4Hz-dar10.wav,0,dar,1158.avi,1181.avi,1156.avi,,1,1,7.8355797052227
+6,7,6,1100.avi,zero,sin-zero-4Hz-choir9.wav,0,choir,1100.avi,1136.avi,1125.avi,,1,4,7.72887017289759
+6,7,7,1111.avi,zero,sin-zero-4Hz-choir12.wav,0,choir,1136.avi,1100.avi,1111.avi,,3,4,4.39671051340702
+6,7,8,1156.avi,zero,sin-zero-4Hz-dar6.wav,0,dar,1181.avi,1188.avi,1156.avi,,3,3,4.68996898276964
+6,7,9,1136.avi,oneeighty,sin-oneeighty-4Hz-choir20.wav,180,choir,1136.avi,1111.avi,1100.avi,,1,2,4.37010210781409
+6,7,10,1003.avi,zero,sin-zero-4Hz-yann8.wav,0,yann,1011.avi,1003.avi,1039.avi,,2,2,4.62337718007257
+6,7,11,1188.avi,oneeighty,sin-oneeighty-4Hz-dar24.wav,180,dar,1188.avi,1156.avi,1181.avi,,1,1,8.15525308096949
+6,7,12,1092.avi,oneeighty,sin-oneeighty-4Hz-acoustic23.wav,180,acoustic,1087.avi,1092.avi,1070.avi,,2,1,4.42333823873378
+6,7,13,1087.avi,oneeighty,sin-oneeighty-4Hz-acoustic18.wav,180,acoustic,1064.avi,1092.avi,1070.avi,,4,4,3.95684786464153
+6,7,14,1039.avi,oneeighty,sin-oneeighty-4Hz-yann13.wav,180,yann,1003.avi,1028.avi,1011.avi,,4,2,7.60880044073019
+6,7,15,1028.avi,oneeighty,sin-oneeighty-4Hz-yann16.wav,180,yann,1003.avi,1039.avi,1028.avi,,3,4,7.48879500705698
+6,7,16,1011.avi,zero,sin-zero-4Hz-yann2.wav,0,yann,1039.avi,1028.avi,1003.avi,,4,2,7.38219505384586
